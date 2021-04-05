@@ -7,7 +7,7 @@ Medication table contains the prescription of medicine given to each patient to 
 
 # Methodology
 
-The analysis revolves around the concept of (**Summary Statistics**)[https://en.wikipedia.org/wiki/Summary_statistics].  
+The analysis revolves around the concept of [**Summary Statistics**](https://en.wikipedia.org/wiki/Summary_statistics).  
 
 <br>
 <hr>
