@@ -56,7 +56,7 @@ In people with **chronic kidney disease (CKD)**, heart and **blood vessel diseas
 
 Field | (Low, | Normal | ,High) | unit | Context  
 -- | -- |-- |-- |--| --    
-Creatining | 65 | 100  | 120 | micromoles/L | High is bad    
+Creatining | 65 | 100  | 120 | mmol/L | High is bad    
 Diastolic Blood Pressure | 60 | 70 | 80 | mm Hg | High is bad
 Systolic Blood Pressure | 100 | 120 | 140 | mm Hg | Both is bad  
 Glucose | 4.0 | 7.8 | 11.1 | mmol/L | High is bad  
