@@ -9,6 +9,9 @@ Medication table contains the prescription of medicine given to each patient to 
 
 The analysis revolves around the concept of [**Summary Statistics**](https://en.wikipedia.org/wiki/Summary_statistics).  
 
+The **measurement** and **medication** data for each patient is summarised into a set of summary statistics that explains as much information as possible about the patient.  
+These summary statistics for each patient will be fed to models for prediction.  
+
 <br>
 <hr>
 <br>
