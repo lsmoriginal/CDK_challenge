@@ -58,3 +58,8 @@ Systolic Blood Pressure | 100 | 120 | 140 | mm Hg | Both is bad
 Glucose | 4.0 | 7.8 | 11.1 | mmol/L | High is bad  
 HBG | 13.5 | 15.5 | 17.5 | g/dL | Low is bad  
 LDL | 100 | 120 | 130 | mg/dL | High is bad  
+
+
+# Model 
+ 
+![image info](https://github.com/lsmoriginal/CDK_challenge/blob/main/Model.PNG)
