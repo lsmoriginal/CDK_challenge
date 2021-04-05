@@ -5,8 +5,9 @@ This is a project that uses two tables: **Measurement** and **Medication**.
 Measurement table contains patient information such as their age, gender, race, disease progress and other health statuses(refer to Medical 101 below).  
 Medication table contains the prescription of medicine given to each patient to be taken at different time period.  
 
+# Methodology
 
-
+The analysis revolves around the concept of (**Summary Statistics**)[https://en.wikipedia.org/wiki/Summary_statistics].  
 
 <br>
 <hr>
@@ -61,5 +62,7 @@ LDL | 100 | 120 | 130 | mg/dL | High is bad
 
 
 # Model 
+
+The report is for the final model developed using Random Forest(decision threshold = 0.3)
  
 ![image info](https://github.com/lsmoriginal/CDK_challenge/blob/main/Model.PNG)
