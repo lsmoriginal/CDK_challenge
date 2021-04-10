@@ -60,7 +60,7 @@ Creatining | 65 | 100  | 120 | mmol/L | High is bad
 Diastolic Blood Pressure | 60 | 70 | 80 | mm Hg | High is bad
 Systolic Blood Pressure | 100 | 120 | 140 | mm Hg | Both is bad  
 Glucose | 4.0 | 7.8 | 11.1 | mmol/L | High is bad  
-HBG | 13.5 | 15.5 | 17.5 | g/dL | Low is bad  
+HGB | 13.5 | 15.5 | 17.5 | g/dL | Low is bad  
 LDL | 100 | 120 | 130 | mg/dL | High is bad  
 
 
