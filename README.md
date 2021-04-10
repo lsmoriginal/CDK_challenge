@@ -1,4 +1,4 @@
-# CDK_challenge  
+# CKD_challenge  
 
 This is a project that uses two tables: **Measurement** and **Medication**.  
 
